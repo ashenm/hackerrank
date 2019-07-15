@@ -2,6 +2,7 @@
 
 ## Linux SHell ##
 - [Let's Echo](challenges/bash-tutorials-lets-echo.sh)
+- [Looping and Skipping](challenges/bash-tutorials-looping-and-skipping.sh)
 
 ## Problem Solving ##
 - [Bon Appétit](challenges/bon-appetit.js)
