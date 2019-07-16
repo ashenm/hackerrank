@@ -6,6 +6,7 @@
 - [Looping with Numbers](challenges/bash-tutorials-looping-with-numbers.sh)
 - [A Personalized Echo](challenges/bash-tutorials-a-personalized-echo.sh)
 - [The World of Numbers](challenges/bash-tutorials-the-world-of-numbers.sh)
+- [Comparing Numbers](challenges/bash-tutorials-comparing-numbers.sh)
 
 ## Problem Solving ##
 - [Bon Appétit](challenges/bon-appetit.js)
