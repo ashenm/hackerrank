@@ -9,6 +9,7 @@
 - [Comparing Numbers](challenges/bash-tutorials-comparing-numbers.sh)
 - [Getting Started with Conditionals](challenges/bash-tutorials-getting-started-with-conditionals.sh)
 - [More on Conditionals](challenges/bash-tutorials-more-on-conditionals.sh)
+- [Arithmetic Operations](challenges/bash-tutorials-arithmetic-operations.sh)
 
 ## Problem Solving ##
 - [Bon Appétit](challenges/bon-appetit.js)
