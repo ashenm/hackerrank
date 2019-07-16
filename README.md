@@ -19,3 +19,4 @@
 1. [Day of the Programmer](challenges/day-of-the-programmer.js)
 1. [Sock Merchant](challenges/sock-merchant.js)
 1. [Picking Numbers](challenges/picking-numbers.js)
+1. [Between Two Sets](challenges/between-two-sets.js)
