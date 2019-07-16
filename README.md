@@ -10,6 +10,8 @@
 - [Getting Started with Conditionals](challenges/bash-tutorials-getting-started-with-conditionals.sh)
 - [More on Conditionals](challenges/bash-tutorials-more-on-conditionals.sh)
 - [Arithmetic Operations](challenges/bash-tutorials-arithmetic-operations.sh)
+- [Compute the Average](challenges/bash-tutorials-compute-the-average.sh)
+- [Compute the Average](challenges/bash-tutorials-compute-the-average.bash)
 
 ## Problem Solving ##
 - [Bon Appétit](challenges/bon-appetit.js)
