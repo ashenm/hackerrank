@@ -12,6 +12,8 @@
 1. [Arithmetic Operations](challenges/bash-tutorials-arithmetic-operations.sh)
 1. [Compute the Average](challenges/bash-tutorials-compute-the-average.sh)
 1. [Compute the Average](challenges/bash-tutorials-compute-the-average.bash)
+1. [Cut #1](challenges/text-processing-cut-1.sh)
+1. [Cut #1](challenges/text-processing-cut-1.bash)
 
 ## Problem Solving ##
 1. [Bon Appétit](challenges/bon-appetit.js)
