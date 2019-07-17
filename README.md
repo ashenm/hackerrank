@@ -24,6 +24,7 @@
 1. [Cut #5](challenges/text-processing-cut-5.bash)
 1. [Cut #6](challenges/text-processing-cut-6.sh)
 1. [Cut #6](challenges/text-processing-cut-6.bash)
+1. [Cut #7](challenges/text-processing-cut-7.sh)
 
 ## Problem Solving ##
 1. [Bon Appétit](challenges/bon-appetit.js)
