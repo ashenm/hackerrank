@@ -29,6 +29,7 @@
 1. [Cut #9](challenges/text-processing-cut-9.sh)
 1. [Head of a Text File #1](challenges/text-processing-head-1.sh)
 1. [Head of a Text File #2](challenges/text-processing-head-2.sh)
+1. [Middle of a Text File](challenges/text-processing-in-linux-the-middle-of-a-text-file.sh)
 
 ## Problem Solving ##
 1. [Bon Appétit](challenges/bon-appetit.js)
