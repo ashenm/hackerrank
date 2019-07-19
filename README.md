@@ -27,6 +27,7 @@
 1. [Cut #7](challenges/text-processing-cut-7.sh)
 1. [Cut #8](challenges/text-processing-cut-8.sh)
 1. [Cut #9](challenges/text-processing-cut-9.sh)
+1. [Head of a Text File #1](challenges/text-processing-head-1.sh)
 
 ## Problem Solving ##
 1. [Bon Appétit](challenges/bon-appetit.js)
