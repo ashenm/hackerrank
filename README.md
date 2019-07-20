@@ -58,6 +58,7 @@
 1. ['Sed' command #5](challenges/sed-command-5.sh)
 1. ['Awk' - 1](challenges/awk-1.sh)
 1. ['Awk' - 2](challenges/awk-2.sh)
+1. ['Awk' - 3](challenges/awk-3.sh)
 
 ## Problem Solving ##
 1. [Bon Appétit](challenges/bon-appetit.js)
