@@ -44,6 +44,7 @@
 1. [Sort Command #7](challenges/text-processing-sort-7.sh)
 1. ['Uniq' Command #1](challenges/text-processing-in-linux-the-uniq-command-1.sh)
 1. ['Uniq' Command #2](challenges/text-processing-in-linux-the-uniq-command-2.sh)
+1. ['Uniq' Command #3](challenges/text-processing-in-linux-the-uniq-command-3.sh)
 
 ## Problem Solving ##
 1. [Bon Appétit](challenges/bon-appetit.js)
