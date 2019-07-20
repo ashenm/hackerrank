@@ -54,6 +54,7 @@
 1. ['Sed' command #1](challenges/text-processing-in-linux-the-sed-command-1.sh)
 1. ['Sed' command #2](challenges/text-processing-in-linux-the-sed-command-2.sh)
 1. ['Sed' command #3](challenges/text-processing-in-linux-the-sed-command-3.sh)
+1. ['Sed' command #4](challenges/sed-command-4.sh)
 
 ## Problem Solving ##
 1. [Bon Appétit](challenges/bon-appetit.js)
