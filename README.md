@@ -32,6 +32,7 @@
 1. [Tail of a Text File #1](challenges/text-processing-tail-1.sh)
 1. [Tail of a Text File #2](challenges/text-processing-tail-2.sh)
 1. [Middle of a Text File](challenges/text-processing-in-linux-the-middle-of-a-text-file.sh)
+1. ['Tr' Command #1](challenges/text-processing-tr-1.sh)
 
 ## Problem Solving ##
 1. [Bon Appétit](challenges/bon-appetit.js)
