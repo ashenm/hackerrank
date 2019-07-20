@@ -41,6 +41,7 @@
 1. [Sort Command #4](challenges/text-processing-sort-4.sh)
 1. [Sort Command #5](challenges/text-processing-sort-5.sh)
 1. [Sort Command #6](challenges/text-processing-sort-6.sh)
+1. [Sort Command #7](challenges/text-processing-sort-7.sh)
 
 ## Problem Solving ##
 1. [Bon Appétit](challenges/bon-appetit.js)
