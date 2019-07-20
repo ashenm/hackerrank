@@ -36,6 +36,7 @@
 1. ['Tr' Command #2](challenges/text-processing-tr-2.sh)
 1. ['Tr' Command #3](challenges/text-processing-tr-3.sh)
 1. [Sort Command #1](challenges/text-processing-sort-1.sh)
+1. [Sort Command #2](challenges/text-processing-sort-2.sh)
 
 ## Problem Solving ##
 1. [Bon Appétit](challenges/bon-appetit.js)
