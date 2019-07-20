@@ -52,6 +52,7 @@
 1. ['Grep' - A](challenges/text-processing-in-linux-the-grep-command-4.sh)
 1. ['Grep' - B](challenges/text-processing-in-linux-the-grep-command-5.sh)
 1. ['Sed' command #1](challenges/text-processing-in-linux-the-sed-command-1.sh)
+1. ['Sed' command #2](challenges/text-processing-in-linux-the-sed-command-2.sh)
 
 ## Problem Solving ##
 1. [Bon Appétit](challenges/bon-appetit.js)
