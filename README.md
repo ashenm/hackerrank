@@ -46,6 +46,7 @@
 1. ['Uniq' Command #2](challenges/text-processing-in-linux-the-uniq-command-2.sh)
 1. ['Uniq' Command #3](challenges/text-processing-in-linux-the-uniq-command-3.sh)
 1. ['Uniq' Command #4](challenges/text-processing-in-linux-the-uniq-command-4.sh)
+1. ['Grep' - A](challenges/text-processing-in-linux-the-grep-command-4.sh)
 
 ## Problem Solving ##
 1. [Bon Appétit](challenges/bon-appetit.js)
