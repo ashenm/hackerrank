@@ -48,6 +48,7 @@
 1. ['Uniq' Command #4](challenges/text-processing-in-linux-the-uniq-command-4.sh)
 1. ['Grep' - #1](challenges/text-processing-in-linux-the-grep-command-1.sh)
 1. ['Grep' - #2](challenges/text-processing-in-linux-the-grep-command-2.sh)
+1. ['Grep' - #3](challenges/text-processing-in-linux-the-grep-command-3.sh)
 1. ['Grep' - A](challenges/text-processing-in-linux-the-grep-command-4.sh)
 1. ['Grep' - B](challenges/text-processing-in-linux-the-grep-command-5.sh)
 
