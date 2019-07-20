@@ -61,6 +61,7 @@
 1. ['Awk' - 3](challenges/awk-3.sh)
 1. ['Awk' - 4](challenges/awk-4.sh)
 1. [Read in an Array](challenges/bash-tutorials-read-in-an-array.bash)
+1. [Slice an Array](challenges/bash-tutorials-slice-an-array.bash)
 
 ## Problem Solving ##
 1. [Bon Appétit](challenges/bon-appetit.js)
