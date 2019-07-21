@@ -62,6 +62,8 @@
 1. ['Awk' - 4](challenges/awk-4.sh)
 1. [Paste - 1](challenges/paste-1.sh)
 1. [Paste - 2](challenges/paste-2.sh)
+1. [Paste - 3](challenges/paste-3.sh)
+1. [Paste - 3](challenges/paste-3.bash)
 1. [Read in an Array](challenges/bash-tutorials-read-in-an-array.bash)
 1. [Display an element of an array](challenges/bash-tutorials-display-the-third-element-of-an-array.bash)
 1. [Slice an Array](challenges/bash-tutorials-slice-an-array.bash)
