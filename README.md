@@ -86,6 +86,7 @@
 ## Python ##
 1. [Any or All](challenges/any-or-all.py)
 1. [Collections.namedtuple()](challenges/py-collections-namedtuple.py)
+1. [Collections.OrderedDict()](challenges/py-collections-ordereddict.py)
 1. [The Minion Game](challenges/the-minion-game.py)
 1. [Merge the Tools!](challenges/merge-the-tools.py)
 1. [Iterables and Iterators](challenges/iterables-and-iterators.py)
