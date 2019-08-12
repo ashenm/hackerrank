@@ -85,6 +85,7 @@
 
 ## Python ##
 1. [Any or All](challenges/any-or-all.py)
+1. [Triangle Quest 2](challenges/triangle-quest-2.py)
 1. [Collections.namedtuple()](challenges/py-collections-namedtuple.py)
 1. [Collections.OrderedDict()](challenges/py-collections-ordereddict.py)
 1. [Word Order](challenges/word-order.py)
