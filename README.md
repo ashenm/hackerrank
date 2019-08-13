@@ -91,6 +91,7 @@
 1. [Collections.OrderedDict()](challenges/py-collections-ordereddict.py)
 1. [Word Order](challenges/word-order.py)
 1. [Standardize Mobile Number Using Decorators](challenges/standardize-mobile-number-using-decorators.py)
+1. [Decorators 2 - Name Directory](challenges/decorators-2-name-directory.py)
 1. [The Minion Game](challenges/the-minion-game.py)
 1. [Merge the Tools!](challenges/merge-the-tools.py)
 1. [Iterables and Iterators](challenges/iterables-and-iterators.py)
