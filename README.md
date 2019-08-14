@@ -89,6 +89,7 @@
 1. [No Idea!](challenges/no-idea.py)
 1. [Triangle Quest 2](challenges/triangle-quest-2.py)
 1. [Collections.namedtuple()](challenges/py-collections-namedtuple.py)
+1. [Collections.deque()](challenges/py-collections-deque.py)
 1. [Collections.OrderedDict()](challenges/py-collections-ordereddict.py)
 1. [Word Order](challenges/word-order.py)
 1. [Standardize Mobile Number Using Decorators](challenges/standardize-mobile-number-using-decorators.py)
