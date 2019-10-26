@@ -90,6 +90,7 @@
 1. [Triangle Quest 2](challenges/triangle-quest-2.py)
 1. [Collections.namedtuple()](challenges/py-collections-namedtuple.py)
 1. [Collections.deque()](challenges/py-collections-deque.py)
+1. [Regex Substitution](challenges/re-sub-regex-substitution.py)
 1. [Piling Up!](challenges/piling-up.py)
 1. [Collections.OrderedDict()](challenges/py-collections-ordereddict.py)
 1. [Word Order](challenges/word-order.py)
