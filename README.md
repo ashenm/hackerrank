@@ -82,6 +82,7 @@
 1. [Sock Merchant](challenges/sock-merchant.js)
 1. [Picking Numbers](challenges/picking-numbers.js)
 1. [Between Two Sets](challenges/between-two-sets.js)
+1. [Array Manipulation](challenges/crush.js)
 
 ## Python ##
 1. [Any or All](challenges/any-or-all.py)
