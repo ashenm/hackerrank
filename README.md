@@ -76,6 +76,7 @@
 1. [Lonely Integer](challenges/lonely-integer-2.sh)
 
 ## Problem Solving ##
+1. [Dynamic Array](challenges/dynamic-array.js)
 1. [Bon Appétit](challenges/bon-appetit.js)
 1. [Drawing Book](challenges/drawing-book.js)
 1. [Day of the Programmer](challenges/day-of-the-programmer.js)
