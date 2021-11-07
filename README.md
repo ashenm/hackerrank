@@ -103,3 +103,6 @@
 1. [The Minion Game](challenges/the-minion-game.py)
 1. [Merge the Tools!](challenges/merge-the-tools.py)
 1. [Iterables and Iterators](challenges/iterables-and-iterators.py)
+
+## SQL ##
+1. [New Companies](challenges/the-company.sql)
