@@ -106,3 +106,4 @@
 
 ## SQL ##
 1. [New Companies](challenges/the-company.sql)
+1. [The Report](challenges/the-report.sql)
